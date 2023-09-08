@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "532731064289",
+    "project_id": "vicleco-moip-man-p",
+    "storage_bucket": "vicleco-moip-man-p.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:532731064289:android:86ed5fafd102d0799e6ca0",
+        "android_client_info": {
+          "package_name": "com.example.moip"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "532731064289-cou9o4d684mjt5s3l9h42314j28ca920.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.moip",
+            "certificate_hash": "50270aca9c78135c1eac6a91d098188d27458ea5"
+          }
+        },
+        {
+          "client_id": "532731064289-vra43ellqbknmltlbhv7465o4roqd1ab.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDuNXLm0INBVOWXlajDjOdBmSh-tLhVh1A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "532731064289-68tr22qipv9a85ff0d5oeifdt06jg6sl.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "532731064289-6938sr9bjad8d1mpsp3baor6v2jg771f.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.moip"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
